@@ -1,5 +1,5 @@
-# fortunemc-withers
-A little plugin I made for the factions server FortuneMC to nerf withers so that they would better fit with the factions climate.
+# FortuneMC-Withers
+A little plugin I made for the factions server FortuneMC to nerf withers so that they would better fit with the factions climate. The plugin is made to run on Spigot 1.12.2.
 Changes the following for withers on FortuneMC:
 
 1. Withers will spawn with 50% of their normal, vanilla max health.
