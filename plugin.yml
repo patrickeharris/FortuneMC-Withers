@@ -1,0 +1,10 @@
+name: FortuneMC-Withers
+main: me.spypat.fortunemc.FortuneMC
+version: 1.0.0
+api-version: 1.12
+commands:
+    withers:
+        description: Main Command For The FortuneMC-Withers Plugin.
+        usage: /withers
+        permission: withers.main
+        permission-message: You Don't Have Permission To Do This!
